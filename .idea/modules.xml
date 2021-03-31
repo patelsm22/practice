@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algorithms.iml" filepath="$PROJECT_DIR$/algorithms/algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_structures/data_structures.iml" filepath="$PROJECT_DIR$/data_structures/data_structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview_prep.iml" filepath="$PROJECT_DIR$/interview_prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem_sets/problem_sets.iml" filepath="$PROJECT_DIR$/problem_sets/problem_sets.iml" />
+    </modules>
+  </component>
+</project>
